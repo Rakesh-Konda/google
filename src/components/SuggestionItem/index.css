@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.li {
+  list-style-type: none;
+  margin: 15px;
+}
+.arr {
+  width: 20px;
+  height: 15px;
+  margin-right: 20px;
+}
+.ch {
+  display: flex;
+  justify-content: space-between;
+}
